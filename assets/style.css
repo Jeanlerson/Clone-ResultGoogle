@@ -114,3 +114,25 @@ header {
     color: #00f;
     border-bottom: solid 3px #00f;
 }
+
+.link-site a {
+    text-decoration: none;
+}
+
+.link-site h1 {
+    font-size: 17px;
+    margin: 0px;
+    margin-top: 15px;
+}
+.link-site h2 {
+    font-size: 13px;
+    color: rgb(84, 147, 84);
+    margin: 0px;
+    margin-top: 5px;
+}
+.link-site p {
+    font-size: 11px;
+    color: #1d1c1c;
+    margin: 0px;
+    margin-top: 3px;
+}
