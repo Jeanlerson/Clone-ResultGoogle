@@ -91,6 +91,7 @@ header {
 
 .container {
     display: flex;
+    flex-direction: column;
     width: 550px;
     margin-left: 147px;
 }
@@ -135,4 +136,9 @@ header {
     color: #1d1c1c;
     margin: 0px;
     margin-top: 3px;
+}
+
+.search-prox p {
+    font-size: 11px;
+    color: #1d1c1c;
 }
